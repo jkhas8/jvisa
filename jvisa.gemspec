@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["thai2811"]
   spec.email         = ["nguyenthai2811@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Ruby gem for VISA api"
+  spec.description   = "This is the gem which using for payment through VISA by AirSofts Team"
+  spec.homepage      = "https://github.com/thai2811/jvisa"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
